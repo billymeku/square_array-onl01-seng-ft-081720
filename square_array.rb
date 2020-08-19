@@ -5,7 +5,6 @@ def square_array(array)
       i ** 2
     end
     numbers = [1,2,3]
- 
-square_array(numbers)
- 
+
 end 
+square_array(numbers)
